@@ -53,6 +53,8 @@ ExportedObj/
 *.mdb.meta
 *.meta
 *.prefab
+*.unity
+*.obj
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -77,3 +79,4 @@ crashlytics-build.properties
 *.json
 *.asset
 *.mat
+
