@@ -51,14 +51,9 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.meta
-*.prefab
-*.obj
-*.fbx
 
 # Unity3D generated file on crash reports
 sysinfo.txt
-ProjectSettings/ProjectVersion.txt
 
 # Builds
 *.apk
@@ -75,10 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-#Others exception
-*.json
-*.asset
-*.mat
-*.png
-
